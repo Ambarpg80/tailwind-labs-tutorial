@@ -1,5 +1,5 @@
 This repo is a starting point to learn Tailwind CSS from tailwind labs.
-[https://www.youtube.com/watch?v=UvF56fPGVt4]
+[Tailwinds_tutorial] "https://www.youtube.com/watch?v=UvF56fPGVt4"
 
 Steps to initiate Tailwind CSS :
 
