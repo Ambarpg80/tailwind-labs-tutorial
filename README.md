@@ -1,5 +1,5 @@
 This repo is a starting point to learn Tailwind CSS from tailwind labs.
-[Tailwinds_tutorial] "https://www.youtube.com/watch?v=UvF56fPGVt4"
+[Tailwinds_tutorial]("https://www.youtube.com/watch?v=UvF56fPGVt4")
 
 Steps to initiate Tailwind CSS :
 
@@ -12,7 +12,7 @@ Steps to initiate Tailwind CSS :
     >
     >   module.exports = {
     >
-    >    content: ["./src/**/*.{html,js}"],
+    >    content: [], *add files to be referenced in brackets*
     >
     >    theme: {
     >
