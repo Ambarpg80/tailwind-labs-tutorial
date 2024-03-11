@@ -22,7 +22,7 @@ Steps to initiate Tailwind CSS :
 4. Start the Tailwind CLI build process. Run the CLI tool to scan your template files for classes and build your CSS. In terminal this will trigger a rebuild so that changes made are automatically shown in preview.  *This command can also be added to package.json to keep watch of changes but may cause a delay*
     `npx tailwindcss -i ./src/input.css -o ./src/output.css --watch`
 5.Add your compiled CSS file to the <head> and start using Tailwind’s utility classes to style your content.
-    `<!doctype html>
+    <!doctype html>
     <html>
     <head>
     <meta charset="UTF-8">
@@ -34,4 +34,4 @@ Steps to initiate Tailwind CSS :
         Hello world!
     </h1>
     </body>
-    </html>`
+    </html>
