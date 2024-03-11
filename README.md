@@ -6,15 +6,22 @@ Steps to initiate Tailwind CSS :
 1. Install tailwindcss via npm, and create your tailwind.config.js file. 
     `npm install -D tailwindcss`
     `npx tailwindcss init `
-    
+
 2. to configure your template paths, add the paths to all of your template files in your *tailwind.config.js* file.
     > /** @type {import('tailwindcss').Config} */
+    >
     >   module.exports = {
+    >
     >    content: ["./src/**/*.{html,js}"],
+    >
     >    theme: {
+    >
     >       extend: {},
+    >
     >    },
+    >
     >    plugins: [],
+    >
     >    }
 
 3. Add the @tailwind directives for each of Tailwind’s layers to your main CSS file.
